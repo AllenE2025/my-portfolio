@@ -93,7 +93,7 @@ export default function Home() {
             About Me
           </h2>
           <p className="text-lg leading-relaxed text-gray-300">
-            I'm a Computer Engineering graduate from STI College Global City. I
+            I&apos;m a Computer Engineering graduate from STI College Global City. I
             can build websites using HTML, CSS, and JavaScript, and write
             backend code with Java, Python, and PHP. I use tools like VS Code,
             Figma, Postman, MySQL, and GitHub. I practice by working on projects
